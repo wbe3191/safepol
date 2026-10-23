@@ -41,3 +41,4 @@ scripts/dev/
 # manuscript sources (English + Chinese) stay private until the paper is accepted
 paper/
 paper_zh/
+WORKLOG.md
