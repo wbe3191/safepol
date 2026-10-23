@@ -27,7 +27,6 @@ k8s/                  Online Boutique v0.10.1 manifests (+ promoservice), upstre
 tests/                smoke / dynamics / incremental / local_repair / host_response / ppo_sanity / logp_consistency
 results/evaltest/     per-episode CSVs of the main experiment (method × seed); results/tables, results/scalability.csv
 results/k8s/          real-cluster CSVs (upstream_shield, fidelity, reconcile_net/host, e2e) and summary.txt
-WORKLOG.md            chronological lab notebook incl. negative results and bug diagnoses
 ```
 
 ## Reproduce
