@@ -1,0 +1,11 @@
+trial,op,new_pod_ready_s,rollout_done_s,status
+0,tighten,2.51,2.58,CapBnd:	00000000a0000531 | Seccomp:	2
+0,relax,2.68,2.77,CapBnd:	00000000a80425fb | Seccomp:	2
+1,tighten,2.74,2.81,CapBnd:	00000000a0000531 | Seccomp:	2
+1,relax,2.73,2.81,CapBnd:	00000000a80425fb | Seccomp:	2
+2,tighten,2.77,2.85,CapBnd:	00000000a0000531 | Seccomp:	2
+2,relax,2.64,2.75,CapBnd:	00000000a80425fb | Seccomp:	2
+3,tighten,2.67,2.75,CapBnd:	00000000a0000531 | Seccomp:	2
+3,relax,2.75,2.85,CapBnd:	00000000a80425fb | Seccomp:	2
+4,tighten,2.76,2.83,CapBnd:	00000000a0000531 | Seccomp:	2
+4,relax,2.66,2.74,CapBnd:	00000000a80425fb | Seccomp:	2

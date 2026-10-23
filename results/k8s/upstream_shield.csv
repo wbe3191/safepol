@@ -1,0 +1,3 @@
+drift,n_rules,n_viol,phis,check_ms,vor_median_ms,vor_max_ms,method,distance,added,removed,safe_after
+0,25,13,phi2 phi4,0.409,18.6,25.23,maxsat,13,12,0,1
+1,25,17,phi2 phi4 phi6 phi8,0.29,20.76,22.94,maxsat,16,15,0,1

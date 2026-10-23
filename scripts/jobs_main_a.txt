@@ -1,0 +1,11 @@
+train SAFEPOL 0 200000
+train SAFEPOL 1 200000
+train SAFEPOL 2 200000
+train B5-PPO 0 200000
+train B4-DQN-PSO 0 200000
+eval B0-none 0 0 evaltest
+eval B1-static 0 0 evaltest
+eval B2-observed 0 0 evaltest
+eval B3-responder 0 0 evaltest
+eval B6-shield-only 0 0 evaltest
+eval B7-hardened 0 0 evaltest

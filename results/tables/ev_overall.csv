@@ -1,0 +1,2 @@
+method,ASR,mitigated,TTM,hops,FBR,FBR_host,SLO,inv_viol,interv,actions,rules,AS,BR,ret,n
+SAFEPOL,0.185,0.9130434782608695,8.839,28.022,0.004,0.507,0.066,0,0.003,15.85,30.48,79.066,5.805,18.963,408
